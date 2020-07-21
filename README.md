@@ -98,7 +98,7 @@
 | [<img src="https://vocadb.net/Album/CoverPicture/28538" width="100" align="middle" />](https://vocadb.net/Al/28538) | [200708] FIND ZERO （苍穹;赤羽;赤塚優一;初音ミク;海伊;星尘） | ❌ |
 | 奶牛组 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/27802" width="100" align="middle" />](https://vocadb.net/Al/27802) | [191221] 止谎剂 （苍穹;诗岸;星尘） | |
-| [<img src="https://vocadb.net/Album/CoverPicture/27800" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/27800" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） | |
 | 个人专辑 | | |
 | 鸟爷 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/7911" width="100" align="middle" />](https://vocadb.net/Al/7911) | [130222] 一半一半 （洛天依） | ❌ |
@@ -119,7 +119,7 @@
 | JUSF周存 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/15065" width="100" align="middle" />](https://vocadb.net/Al/15065) | [150918] 双向·轮回与幸福 （乐正绫;洛天依;言和） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/28432" width="100" align="middle" />](https://vocadb.net/Al/28432) | [180201] Godrose （乐正绫;乐正龙牙;洛天依;言和;鏡音レン） | |
-| [<img src="https://img.moegirl.org/common/b/b4/火葬.jpg" width="100" align="middle" />](https://zh.moegirl.org/火葬) | [180201] 火葬 （鏡音レン） | ❌ |
+| [<img src="https://img.moegirl.org/common/b/b4/火葬.jpg" width="100" align="middle" />](https://zh.moegirl.org/火葬) | [180201] 火葬 （鏡音レン） | |
 | iKz_茶壶 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/18329" width="100" align="middle" />](https://vocadb.net/Al/18329) | [160609] 幻想·幻境 （乐正绫;祖娅纳惜） | ❌ |
 | 阿良良木健 | | |
@@ -188,12 +188,14 @@
 | [<img src="https://vocadb.net/Album/CoverPicture/24671" width="100" align="middle" />](https://vocadb.net/Al/24671) | [180516] 华哉有夏 （乐正绫;乐正龙牙;洛天依;言和） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/25608" width="100" align="middle" />](https://vocadb.net/Al/25608) | [180706] ∞ （洛天依） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/24882" width="100" align="middle" />](https://vocadb.net/Al/24882) | [180711] 预定调和 （言和） | |
+| [<img src="https://pic.downk.cc/item/5f16ab9d14195aa594c85398.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV13s411w79d) | [180731] 天宫九问 （洛天依;乐正绫） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/26885" width="100" align="middle" />](https://vocadb.net/Al/26885) | [180907] No.13852 （洛天依;言和;心华） | |
-| [<img src="https://vocadb.net/Album/CoverPicture/27154" width="100" align="middle" />](https://vocadb.net/Al/27154) | [181001] 星临 （星尘;洛天依;乐正龙牙） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/27154" width="100" align="middle" />](https://vocadb.net/Al/27154) | [181001] 星临 （星砂;星尘;洛亦天;言和;乐正龙牙） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/26063" width="100" align="middle" />](https://vocadb.net/Al/26063) | [181011] 未来之旅 （初音ミク） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/25683" width="100" align="middle" />](https://vocadb.net/Al/25683) | [181102] 人造树的幽灵 （徵羽摩柯） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/27037" width="100" align="middle" />](https://vocadb.net/Al/27037) | [190731] THE GALLERY （星尘;赤羽） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/27359" width="100" align="middle" />](https://vocadb.net/Al/27359) | [191210] 柒 （洛天依;乐正绫;言和） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/28221" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/28013" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） | |
-| [<img src="https://vocadb.net/Album/CoverPicture/28325" width="100" align="middle" />](https://vocadb.net/Al/28325) | [200401] NoISE/心噪音 （Lucifer X;赤羽;海伊;乐正绫;洛天依;南宮彰;星尘;言和） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/28325" width="100" align="middle" />](https://vocadb.net/Al/28325) | [200401] NoISE/心噪音 （Lucifer X;赤羽;海伊;乐正绫;洛天依;南宮彰;星尘;言和） | |
+| [<img src="https://pic.downk.cc/item/5f16bf2514195aa594d0276f.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV19i4y1s7V6) | [200604] 淡漠 （赤羽;诗岸;Eleanor Forte） | |
