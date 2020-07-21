@@ -125,19 +125,19 @@
 | 阿原Adam | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/19800" width="100" align="middle" />](https://vocadb.net/Al/19800) | [161002] 红颜志 （洛天依;乐正绫） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/25674" width="100" align="middle" />](https://vocadb.net/Al/25674) | [181029] 如是我闻 （洛天依;言和;乐正绫;星尘;心华;乐正龙牙;墨清弦;徵羽摩柯） | |
-| 情侣之敌P | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/20098" width="100" align="middle" />](https://vocadb.net/Al/20098) | [161202] ·星·间物语 （初音ミク;洛天依;kokone） | ❌ |
+| AkoR_情侶の敵p | | |
+| [<img src="https://vocadb.net/Album/CoverPicture/20098" width="100" align="middle" />](https://vocadb.net/Al/20098) | [161202] ·星·间物语 （初音ミク;洛天依;kokone） | |
 | PoKeR | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/20042" width="100" align="middle" />](https://vocadb.net/Al/20042) | [161203] 秒 （洛天依） | |
 | 小野道ono | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/22745" width="100" align="middle" />](https://vocadb.net/Al/22745) | [170430] 蝴蝶旅客 （星尘） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/26061" width="100" align="middle" />](https://vocadb.net/Al/26061) | [181111] 泡沫 （初音ミク） | |
 | 砖厂浪人 | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/22903" width="100" align="middle" />](https://vocadb.net/Al/22903) | [170607] 四季四世 （乐正绫;洛天依;星尘;言和） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/22903" width="100" align="middle" />](https://vocadb.net/Al/22903) | [170607] 四季四世 （乐正绫;洛天依;星尘;言和） | |
 | Zeno | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/23448" width="100" align="middle" />](https://vocadb.net/Al/23448) | [171030] Freesia （星尘） | |
 | 舞璃Days | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/25137" width="100" align="middle" />](https://vocadb.net/Al/25137) | [180210] I （初音ミク） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/25137" width="100" align="middle" />](https://vocadb.net/Al/25137) | [180210] I （初音ミク） | |
 | 枭目☆moku | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/24483" width="100" align="middle" />](https://vocadb.net/Al/24483) | [180320] 卡纳塔幻想曲 （乐正绫;乐正龙牙;洛天依;星尘;言和） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/26728" width="100" align="middle" />](https://vocadb.net/Al/26728) | [190518] 諾 （言和） | |
@@ -147,12 +147,12 @@
 | EmpathP | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/25683" width="100" align="middle" />](https://vocadb.net/Al/25683) | [181102] 人造树的幽灵 （徵羽摩柯） | ❌ |
 | Fizer0046 | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/26766" width="100" align="middle" />](https://vocadb.net/Al/26766) | [181110] 雨中巴士站 （星尘） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/26766" width="100" align="middle" />](https://vocadb.net/Al/26766) | [181110] 雨中巴士站 （星尘） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/28276" width="100" align="middle" />](https://vocadb.net/Al/28276) | [200301] 塌陷于38°C的蓝 （海伊;诗岸;星尘） | |
 | 米库喵 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/26374" width="100" align="middle" />](https://vocadb.net/Al/26374) | [181117] STILL WITH U （初音ミク） | ❌ |
 | 味素 | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/26059" width="100" align="middle" />](https://vocadb.net/Al/26059) | [181215] SPICE （初音ミク） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/26059" width="100" align="middle" />](https://vocadb.net/Al/26059) | [181215] SPICE （初音ミク） | |
 | 绛舞乱丸 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/26484" width="100" align="middle" />](https://vocadb.net/Al/26484) | [190329] 从众效应 （乐正绫;乐正龙牙;洛天依;墨清弦） | |
 | SakuyaH | | |
@@ -162,7 +162,7 @@
 | Yaume 缘梦心音P | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/27307" width="100" align="middle" />](https://vocadb.net/Al/27307) | [191005] 无色圣界 （初音ミク） | |
 | Nekock·LK | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/27507" width="100" align="middle" />](https://vocadb.net/Al/27507) | [191221] 暗适应ЯEMOTION （初音ミク） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/27507" width="100" align="middle" />](https://vocadb.net/Al/27507) | [191221] 暗适应ЯEMOTION （初音ミク） | |
 | 霧谷久城 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/28325" width="100" align="middle" />](https://vocadb.net/Al/28325) | [200401] NoISE/心噪音 （Lucifer X;赤羽;海伊;乐正绫;洛天依;南宮彰;星尘;言和） | ❌ |
 | 康师傅の海鲜面 | | |
