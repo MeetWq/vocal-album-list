@@ -1,3 +1,7 @@
+自己整理的 中V & SV 相关专辑列表，绝大部分数据来源于 [VocaDB](https://vocadb.net/)
+希望各路大佬能补充和指正
+可以交换电子专辑，有红叉的是我没有的
+
 | 专辑图片 | [发行时间] 专辑名称 （歌手） | 有/无 |
 | :-: | - | - |
 | 官方专辑 | | |
@@ -61,6 +65,8 @@
 | Aerial Audio System | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/6700" width="100" align="middle" />](https://vocadb.net/Al/6700) | [130611] 电音斗剧 vol.1 （蒼姫ラピス;洛天依） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/16262" width="100" align="middle" />](https://vocadb.net/Al/16262) | [150606] 电音斗剧 2 Daybreak （蒼姫ラピス;洛天依） | |
+| 龙皇社 | | |
+| [<img src="https://vocadb.net/Album/CoverPicture/7926" width="100" align="middle" />](https://vocadb.net/Al/7926) | [130830] 月思 （洛天依） | ❌ |
 | 殿堂团队 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/7965" width="100" align="middle" />](https://vocadb.net/Al/7965) | [140205] 殿堂1 （洛天依;言和） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/16302" width="100" align="middle" />](https://vocadb.net/Al/16302) | [151025] 殿堂2 （洛天依;言和;心华） | |
@@ -165,7 +171,6 @@
 | 其他专辑 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/9959" width="100" align="middle" />](https://vocadb.net/Al/9959) | [121222] Miles;Smile （サクヤ;初音ミク;泠鸢yousa;洛天依;鸦糜;杨云翔） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/7891" width="100" align="middle" />](https://vocadb.net/Al/7891) | [130320] 丝染苍黄 （洛天依） | ❌ |
-| [<img src="https://vocadb.net/Album/CoverPicture/7926" width="100" align="middle" />](https://vocadb.net/Al/7926) | [130830] 月思 （洛天依） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/7901" width="100" align="middle" />](https://vocadb.net/Al/7901) | [131020] 花洛兮 （洛天依） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/7919" width="100" align="middle" />](https://vocadb.net/Al/7919) | [131122] 感谢 （洛天依） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/8008" width="100" align="middle" />](https://vocadb.net/Al/8008) | [140304] X-Loid （初音ミク;洛天依） | |
@@ -189,5 +194,6 @@
 | [<img src="https://vocadb.net/Album/CoverPicture/25683" width="100" align="middle" />](https://vocadb.net/Al/25683) | [181102] 人造树的幽灵 （徵羽摩柯） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/27037" width="100" align="middle" />](https://vocadb.net/Al/27037) | [190731] THE GALLERY （星尘;赤羽） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/27359" width="100" align="middle" />](https://vocadb.net/Al/27359) | [191210] 柒 （洛天依;乐正绫;言和） | |
+| [<img src="https://vocadb.net/Album/CoverPicture/28221" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/28013" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/28325" width="100" align="middle" />](https://vocadb.net/Al/28325) | [200401] NoISE/心噪音 （Lucifer X;赤羽;海伊;乐正绫;洛天依;南宮彰;星尘;言和） | ❌ |
