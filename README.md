@@ -1,5 +1,7 @@
 自己整理的 中V & SV 相关专辑列表，绝大部分数据来源于 [VocaDB](https://vocadb.net/)
+
 希望各路大佬能补充和指正
+
 可以交换电子专辑，有红叉的是我没有的
 
 | 专辑图片 | [发行时间] 专辑名称 （歌手） | 有/无 |
@@ -66,7 +68,7 @@
 | [<img src="https://vocadb.net/Album/CoverPicture/6700" width="100" align="middle" />](https://vocadb.net/Al/6700) | [130611] 电音斗剧 vol.1 （蒼姫ラピス;洛天依） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/16262" width="100" align="middle" />](https://vocadb.net/Al/16262) | [150606] 电音斗剧 2 Daybreak （蒼姫ラピス;洛天依） | |
 | 龙皇社 | | |
-| [<img src="https://vocadb.net/Album/CoverPicture/7926" width="100" align="middle" />](https://vocadb.net/Al/7926) | [130830] 月思 （洛天依） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/7926" width="100" align="middle" />](https://vocadb.net/Al/7926) | [130830] 月思 （洛天依） | |
 | 殿堂团队 | | |
 | [<img src="https://vocadb.net/Album/CoverPicture/7965" width="100" align="middle" />](https://vocadb.net/Al/7965) | [140205] 殿堂1 （洛天依;言和） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/16302" width="100" align="middle" />](https://vocadb.net/Al/16302) | [151025] 殿堂2 （洛天依;言和;心华） | |
@@ -177,7 +179,7 @@
 | [<img src="https://vocadb.net/Album/CoverPicture/12436" width="100" align="middle" />](https://vocadb.net/Al/12436) | [140518] Vocaloeater （洛天依;言和） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/18031" width="100" align="middle" />](https://vocadb.net/Al/18031) | [140601] Distortion and Overdrive （GUMI;洛天依;佑可猫;水曜日） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/9706" width="100" align="middle" />](https://vocadb.net/Al/9706) | [140901] 月行书 （洛天依;言和） | ❌ |
-| [<img src="https://vocadb.net/Album/CoverPicture/15135" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） | ❌ |
+| [<img src="https://vocadb.net/Album/CoverPicture/15135" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/18369" width="100" align="middle" />](https://vocadb.net/Al/18369) | [160618] 只是孩子 （洛天依;言和） | ❌ |
 | [<img src="https://vocadb.net/Album/CoverPicture/20098" width="100" align="middle" />](https://vocadb.net/Al/20098) | [161202] ·星·间物语 （初音ミク;洛天依;kokone） | |
 | [<img src="https://vocadb.net/Album/CoverPicture/22429" width="100" align="middle" />](https://vocadb.net/Al/22429) | [170223] 起点 （鏡音リン;洛天依） | |
