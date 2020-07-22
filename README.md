@@ -9,8 +9,8 @@
 | 官方专辑 | | |
 | 禾念 | | |
 | [<img src="./cover/SingSingSing.jpg" width="100" align="middle" />](https://vocadb.net/Al/1730) | [120712] Sing Sing Sing （洛天依） | |
-| [<img src="./cover/DanceDanceDance.jpg" width="100" align="middle" />](https://vocadb.net/Al/2174) | [121218] Dance Dance Dance （洛天依） | ❌ |
-| [<img src="./cover/梦的七次方.png" width="100" align="middle" />](https://vocadb.net/Al/9382) | [121224] 梦的七次方 （洛天依） | ❌ |
+| [<img src="./cover/DanceDanceDance.jpg" width="100" align="middle" />](https://vocadb.net/Al/2174) | [121218] Dance Dance Dance （洛天依） | |
+| [<img src="./cover/梦的七次方.png" width="100" align="middle" />](https://vocadb.net/Al/9382) | [121224] 梦的七次方 （洛天依） | |
 | [<img src="./cover/星.jpg" width="100" align="middle" />](https://vocadb.net/Al/6612) | [130323] 星 （洛天依） | |
 | [<img src="./cover/The Stage 1.jpg" width="100" align="middle" />](https://vocadb.net/Al/3652) | [130711] The Stage 1 （言和） | ❌ |
 | [<img src="./cover/The Stage 2.jpg" width="100" align="middle" />](https://vocadb.net/Al/6529) | [131125] The Stage 2 （言和） | ❌ |
@@ -31,7 +31,7 @@
 | [<img src="./cover/平行四界×轻文轻小说 EP Vol. 1.jpg" width="100" align="middle" />](https://vocadb.net/Al/18395) | [160724] 平行四界×轻文轻小说 EP Vol. 1 （星尘） | ❌ |
 | [<img src="./cover/南北极星 Vol.1.jpg" width="100" align="middle" />](https://vocadb.net/Al/20021) | [161130] 南北极星 Vol.1 （洛天依;乐正绫;星尘） | |
 | [<img src="./cover/星语.jpg" width="100" align="middle" />](https://vocadb.net/Al/22356) | [170228] 星语 （星尘） | |
-| [<img src="./cover/平行四界LIVE TOUR OFFICIAL ALBUM.jpg" width="100" align="middle" />](https://vocadb.net/Al/23131) | [170915] 平行四界Live Tour （星尘） | ❌ |
+| [<img src="./cover/平行四界LIVE TOUR OFFICIAL ALBUM.jpg" width="100" align="middle" />](https://vocadb.net/Al/23131) | [170915] 平行四界Live Tour （星尘） | |
 | [<img src="./cover/平行四界 6.jpg" width="100" align="middle" />](https://vocadb.net/Al/24574) | [180323] 平行四界 6 （洛天依;乐正绫;星尘;言和;初音ミク） | |
 | [<img src="./cover/星之海.jpg" width="100" align="middle" />](https://vocadb.net/Al/24640) | [180511] 星之海 （星尘;海伊） | |
 | [<img src="./cover/亚特兰蒂斯.jpg" width="100" align="middle" />](https://vocadb.net/Al/25781) | [181031] 亚特兰蒂斯 （海伊） | |
@@ -95,7 +95,7 @@
 | BE pharma. | | |
 | [<img src="./cover/聲跡.jpg" width="100" align="middle" />](https://vocadb.net/Al/26076) | [181208] 声迹 BEsappear （初音ミク;夏语遥;心华） | ❌ |
 | 糖果工坊 | | |
-| [<img src="./cover/维·爱.jpg" width="100" align="middle" />](https://vocadb.net/Al/27673) | [191116] 维·爱L'amouЯ （苍穹;赤羽;海伊;诗岸;星尘） | ❌ |
+| [<img src="./cover/维·爱.jpg" width="100" align="middle" />](https://vocadb.net/Al/27673) | [191116] 维·爱L'amouЯ （苍穹;赤羽;海伊;诗岸;星尘） | |
 | [<img src="./cover/FIND ZERO.jpg" width="100" align="middle" />](https://vocadb.net/Al/28538) | [200708] FIND ZERO （苍穹;赤羽;赤塚優一;初音ミク;海伊;星尘） | ❌ |
 | 奶牛组 | | |
 | [<img src="./cover/止谎剂.jpg" width="100" align="middle" />](https://vocadb.net/Al/27802) | [191221] 止谎剂 （苍穹;诗岸;星尘） | |
@@ -193,7 +193,7 @@
 | [<img src="./cover/末日－ENDLESS－.png" width="100" align="middle" />](https://www.bilibili.com/video/BV1ob411U7A3) | [190209] 末日－ENDLESS－ （星尘;心华;初音ミク;薛南;kier;いくせん） | ❌ |
 | [<img src="./cover/THE GALLERY.jpg" width="100" align="middle" />](https://vocadb.net/Al/27037) | [190731] THE GALLERY （星尘;赤羽） | ❌ |
 | [<img src="./cover/柒.jpg" width="100" align="middle" />](https://vocadb.net/Al/27359) | [191210] 柒 （洛天依;乐正绫;言和） | |
-| [<img src="./cover/Cotton Candy.jpg" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） | ❌ |
+| [<img src="./cover/Cotton Candy.jpg" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） | |
 | [<img src="./cover/FM40.4.jpg" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） | |
 | [<img src="./cover/NoISE.png" width="100" align="middle" />](https://vocadb.net/Al/28325) | [200401] NoISE/心噪音 （Lucifer X;赤羽;海伊;乐正绫;洛天依;南宮彰;星尘;言和） | |
 | [<img src="./cover/淡漠.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV19i4y1s7V6) | [200604] 淡漠 （赤羽;诗岸;Eleanor Forte） | ❌ |
