@@ -12,8 +12,8 @@
 | [<img src="./cover/DanceDanceDance.jpg" width="100" align="middle" />](https://vocadb.net/Al/2174) | [121218] Dance Dance Dance （洛天依） | |
 | [<img src="./cover/梦的七次方.png" width="100" align="middle" />](https://vocadb.net/Al/9382) | [121224] 梦的七次方 （洛天依） | |
 | [<img src="./cover/星.jpg" width="100" align="middle" />](https://vocadb.net/Al/6612) | [130323] 星 （洛天依） | |
-| [<img src="./cover/The Stage 1.jpg" width="100" align="middle" />](https://vocadb.net/Al/3652) | [130711] The Stage 1 （言和） | ❌ |
-| [<img src="./cover/The Stage 2.jpg" width="100" align="middle" />](https://vocadb.net/Al/6529) | [131125] The Stage 2 （言和） | ❌ |
+| [<img src="./cover/The Stage 1.jpg" width="100" align="middle" />](https://vocadb.net/Al/3652) | [130711] The Stage 1 （言和） | |
+| [<img src="./cover/The Stage 2.jpg" width="100" align="middle" />](https://vocadb.net/Al/6529) | [131125] The Stage 2 （言和） | |
 | [<img src="./cover/虚拟游乐场.jpg" width="100" align="middle" />](https://vocadb.net/Al/22951) | [170616] 虚拟游乐场 （洛天依;言和） | |
 | [<img src="./cover/绫.jpg" width="100" align="middle" />](https://vocadb.net/Al/24475) | [171202] 绫 （乐正绫） | |
 | [<img src="./cover/Lost In Tianyi.png" width="100" align="middle" />](https://vocadb.net/Al/26087) | [190301] Lost In Tianyi （洛天依） | |
@@ -28,7 +28,7 @@
 | [<img src="./cover/平行四界 4.jpg" width="100" align="middle" />](https://vocadb.net/Al/16383) | [151212] 平行四界 4 （洛天依;乐正绫） | |
 | [<img src="./cover/星愿.jpg" width="100" align="middle" />](https://vocadb.net/Al/16846) | [160328] 星愿 （星尘） | |
 | [<img src="./cover/平行四界 5.jpg" width="100" align="middle" />](https://vocadb.net/Al/18365) | [160715] 平行四界 5 （洛天依;乐正绫;星尘） | |
-| [<img src="./cover/平行四界×轻文轻小说 EP Vol. 1.jpg" width="100" align="middle" />](https://vocadb.net/Al/18395) | [160724] 平行四界×轻文轻小说 EP Vol. 1 （星尘） | ❌ |
+| [<img src="./cover/平行四界×轻文轻小说 EP Vol. 1.jpg" width="100" align="middle" />](https://vocadb.net/Al/18395) | [160724] 平行四界×轻文轻小说 EP Vol. 1 （星尘） | |
 | [<img src="./cover/南北极星 Vol.1.jpg" width="100" align="middle" />](https://vocadb.net/Al/20021) | [161130] 南北极星 Vol.1 （洛天依;乐正绫;星尘） | |
 | [<img src="./cover/星语.jpg" width="100" align="middle" />](https://vocadb.net/Al/22356) | [170228] 星语 （星尘） | |
 | [<img src="./cover/平行四界LIVE TOUR OFFICIAL ALBUM.jpg" width="100" align="middle" />](https://vocadb.net/Al/23131) | [170915] 平行四界Live Tour （星尘） | |
@@ -75,7 +75,7 @@
 | [<img src="./cover/殿堂Ⅲ.jpg" width="100" align="middle" />](https://vocadb.net/Al/22580) | [170212] 殿堂3 （洛天依;言和;乐正绫;心华;GUMI） | |
 | [<img src="./cover/朝花夕拾2.jpg" width="100" align="middle" />](https://vocadb.net/Al/26420) | [180519] 朝花夕拾2 （洛天依;言和;乐正绫） | |
 | [<img src="./cover/朝花夕拾3.jpg" width="100" align="middle" />](https://vocadb.net/Al/26083) | [181214] 朝花夕拾3 （洛天依;言和;乐正绫;星尘;心华） | |
-| [<img src="./cover/唯声.jpg" width="100" align="middle" />](https://vocadb.net/Al/27385) | [190607] 唯声 （洛天依;言和;乐正绫;星尘;心华） | ❌ |
+| [<img src="./cover/唯声.jpg" width="100" align="middle" />](https://vocadb.net/Al/27385) | [190607] 唯声 （洛天依;言和;乐正绫;星尘;心华） | |
 | 无名社 | | |
 | [<img src="./cover/无名.jpg" width="100" align="middle" />](https://vocadb.net/Al/26382) | [170501] 无名 （洛天依;言和;乐正绫;星尘;心华） | |
 | [<img src="./cover/名字.jpg" width="100" align="middle" />](https://vocadb.net/Al/27155) | [190913] 名字 （洛天依;言和;乐正绫;星尘;起复;起礼） | |
@@ -167,7 +167,7 @@
 | [<img src="./cover/海盼伊人.jpg" width="100" align="middle" />](https://vocadb.net/Al/28342) | [200520] 海盼伊人 （海伊） | |
 | 其他专辑 | | |
 | [<img src="./cover/Miles;Smile.jpg" width="100" align="middle" />](https://vocadb.net/Al/9959) | [121222] Miles;Smile （サクヤ;初音ミク;泠鸢yousa;洛天依;鸦糜;杨云翔） | ❌ |
-| [<img src="./cover/絲染蒼黃.jpg" width="100" align="middle" />](https://vocadb.net/Al/7891) | [130320] 丝染苍黄 （洛天依） | ❌ |
+| [<img src="./cover/絲染蒼黃.jpg" width="100" align="middle" />](https://vocadb.net/Al/7891) | [130320] 丝染苍黄 （洛天依） | |
 | [<img src="./cover/花洛兮.jpg" width="100" align="middle" />](https://vocadb.net/Al/7901) | [131020] 花洛兮 （洛天依） | ❌ |
 | [<img src="./cover/感谢.jpg" width="100" align="middle" />](https://vocadb.net/Al/7919) | [131122] 感谢 （洛天依） | ❌ |
 | [<img src="./cover/X-Loid.jpg" width="100" align="middle" />](https://vocadb.net/Al/8008) | [140304] X-Loid （初音ミク;洛天依） | |
