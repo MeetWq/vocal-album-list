@@ -54,7 +54,6 @@
 | [<img src="./cover/失落的機械城I.jpg" width="100" align="middle" />](https://vocadb.net/Al/9255) | [120213] 失落的机械城：边境小镇物语 （初音ミク;鏡音レン;Kaede;Luna;西国の海妖） | |
 | [<img src="./cover/SUMMER Days.jpg" width="100" align="middle" />](https://vocadb.net/Al/1727) | [120721] Summer Days （洛天依） | ❌ |
 | [<img src="./cover/三月雨.jpg" width="100" align="middle" />](https://vocadb.net/Al/7974) | [121214] 三月雨 （洛天依） | |
-| [<img src="./cover/洛天依小鸡哔哔.jpg" width="100" align="middle" />](https://vocadb.net/Al/7902) | [130621] 洛天依小鸡哔哔 （洛天依） | ❌ |
 | [<img src="./cover/忆香.jpg" width="100" align="middle" />](https://vocadb.net/Al/6614) | [130731] 忆香 （洛天依;言和） | |
 | [<img src="./cover/失落的機械城II.jpg" width="100" align="middle" />](https://vocadb.net/Al/9299) | [140430] 失落的机械城Ⅱ：虚浮之都 （初音ミク;泠鸢yousa;洛天依;祈Inory;山新） | |
 | [<img src="./cover/Travel Days.jpg" width="100" align="middle" />](https://vocadb.net/Al/15163) | [150930] Travel Days （不才;景三;乐正绫;泠鸢yousa;洛天依;祈Inory;心华;羊田;佑可猫） | ❌ |
@@ -102,10 +101,6 @@
 | [<img src="./cover/止谎剂.jpg" width="100" align="middle" />](https://vocadb.net/Al/27802) | [191221] 止谎剂 （苍穹;诗岸;星尘） | |
 | [<img src="./cover/深潜之宙.jpg" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） | |
 | 个人专辑 | | |
-| 鸟爷 | | |
-| [<img src="./cover/一半一半.jpg" width="100" align="middle" />](https://vocadb.net/Al/7911) | [130222] 一半一半 （洛天依） | ❌ |
-| 潜移默化P | | |
-| [<img src="./cover/欠一个拥抱.jpg" width="100" align="middle" />](https://vocadb.net/Al/7910) | [130315] 欠一个拥抱 （洛天依） | ❌ |
 | 裕剑流 | | |
 | [<img src="./cover/重力幻想曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/6613) | [130526] 重力幻想曲 （GUMI;初音ミク;鏡音リン;鏡音レン;洛天依;阮小七） | ❌ |
 | [<img src="./cover/354机甲少女骑士团.jpg" width="100" align="middle" />](https://vocadb.net/Al/7890) | [131123] 354机甲少女骑士团 （GUMI;IA;KAITO;初音ミク;鏡音リン;鏡音レン;洛天依;言和） | |
@@ -195,9 +190,10 @@
 | [<img src="./cover/星临.jpg" width="100" align="middle" />](https://vocadb.net/Al/27154) | [181001] 星临 （星砂;星尘;洛亦天;言和;乐正龙牙） | |
 | [<img src="./cover/未来之旅.jpg" width="100" align="middle" />](https://vocadb.net/Al/26063) | [181011] 未来之旅 （初音ミク） | |
 | [<img src="./cover/人造树的幽灵.jpg" width="100" align="middle" />](https://vocadb.net/Al/25683) | [181102] 人造树的幽灵 （徵羽摩柯） | ❌ |
+| [<img src="./cover/末日－ENDLESS－.png" width="100" align="middle" />](https://www.bilibili.com/video/BV1ob411U7A3) | [190209] 末日－ENDLESS－ （星尘;心华;初音ミク;薛南;kier;いくせん） | ❌ |
 | [<img src="./cover/THE GALLERY.jpg" width="100" align="middle" />](https://vocadb.net/Al/27037) | [190731] THE GALLERY （星尘;赤羽） | ❌ |
 | [<img src="./cover/柒.jpg" width="100" align="middle" />](https://vocadb.net/Al/27359) | [191210] 柒 （洛天依;乐正绫;言和） | |
 | [<img src="./cover/Cotton Candy.jpg" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） | ❌ |
 | [<img src="./cover/FM40.4.jpg" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） | |
 | [<img src="./cover/NoISE.png" width="100" align="middle" />](https://vocadb.net/Al/28325) | [200401] NoISE/心噪音 （Lucifer X;赤羽;海伊;乐正绫;洛天依;南宮彰;星尘;言和） | |
-| [<img src="./cover/淡漠.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV19i4y1s7V6) | [200604] 淡漠 （赤羽;诗岸;Eleanor Forte） | |
+| [<img src="./cover/淡漠.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV19i4y1s7V6) | [200604] 淡漠 （赤羽;诗岸;Eleanor Forte） | ❌ |
