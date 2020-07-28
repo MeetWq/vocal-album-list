@@ -52,7 +52,7 @@
 | 社团、团队 | | |
 | Days乐团 | | |
 | [<img src="./cover/失落的機械城I.jpg" width="100" align="middle" />](https://vocadb.net/Al/9255) | [120213] 失落的机械城：边境小镇物语 （初音ミク;鏡音レン;Kaede;Luna;西国の海妖） | |
-| [<img src="./cover/SUMMER Days.jpg" width="100" align="middle" />](https://vocadb.net/Al/1727) | [120721] Summer Days （洛天依） | ❌ |
+| [<img src="./cover/SUMMER Days.jpg" width="100" align="middle" />](https://vocadb.net/Al/1727) | [120721] Summer Days （洛天依） | |
 | [<img src="./cover/三月雨.jpg" width="100" align="middle" />](https://vocadb.net/Al/7974) | [121214] 三月雨 （洛天依） | |
 | [<img src="./cover/忆香.jpg" width="100" align="middle" />](https://vocadb.net/Al/6614) | [130731] 忆香 （洛天依;言和） | |
 | [<img src="./cover/失落的機械城II.jpg" width="100" align="middle" />](https://vocadb.net/Al/9299) | [140430] 失落的机械城Ⅱ：虚浮之都 （初音ミク;泠鸢yousa;洛天依;祈Inory;山新） | |
@@ -149,6 +149,7 @@
 | Fizer0046 | | |
 | [<img src="./cover/雨中巴士站.jpg" width="100" align="middle" />](https://vocadb.net/Al/26766) | [181110] 雨中巴士站 （星尘） | |
 | [<img src="./cover/塌陷于38°C的蓝.jpg" width="100" align="middle" />](https://vocadb.net/Al/28276) | [200301] 塌陷于38°C的蓝 （海伊;诗岸;星尘） | |
+| [<img src="./cover/月光入侵计划.jpg" width="100" align="middle" />](https://vocadb.net/Al/28577) | [200727] 月光入侵计划 （诗岸） | |
 | 米库喵 | | |
 | [<img src="./cover/STILL WITH U.jpg" width="100" align="middle" />](https://vocadb.net/Al/26374) | [181117] STILL WITH U （初音ミク） | ❌ |
 | 味素 | | |
@@ -173,6 +174,7 @@
 | [<img src="./cover/X-Loid.jpg" width="100" align="middle" />](https://vocadb.net/Al/8008) | [140304] X-Loid （初音ミク;洛天依） | |
 | [<img src="./cover/Vocaloeater.jpg" width="100" align="middle" />](https://vocadb.net/Al/12436) | [140518] Vocaloeater （洛天依;言和） | ❌ |
 | [<img src="./cover/Distortion and Overdrive.png" width="100" align="middle" />](https://vocadb.net/Al/18031) | [140601] Distortion and Overdrive （GUMI;洛天依;佑可猫;水曜日） | ❌ |
+| [<img src="./cover/芳菲九陌.jpg" width="100" align="middle" />](https://vocadb.net/Al/14880) | [140825] 芳菲九陌 （洛天依） | ❌ |
 | [<img src="./cover/月行書.jpg" width="100" align="middle" />](https://vocadb.net/Al/9706) | [140901] 月行书 （洛天依;言和） | ❌ |
 | [<img src="./cover/红-花开时代.jpg" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） | |
 | [<img src="./cover/只是孩子.png" width="100" align="middle" />](https://vocadb.net/Al/18369) | [160618] 只是孩子 （洛天依;言和） | ❌ |
@@ -180,7 +182,6 @@
 | [<img src="./cover/起点.png" width="100" align="middle" />](https://vocadb.net/Al/22429) | [170223] 起点 （鏡音リン;洛天依） | |
 | [<img src="./cover/节气物语(春夏卷).jpg" width="100" align="middle" />](https://vocadb.net/Al/18347) | [170315] 节气物语(春夏卷) （乐正绫;洛天依） | |
 | [<img src="./cover/绫歌泛夜.jpg" width="100" align="middle" />](https://music.163.com/#/album?id=35963753) | [170818] 绫歌泛夜 （乐正绫） | |
-| [<img src="./cover/奇迹年轮.png" width="100" align="middle" />](https://vocadb.net/Al/23191) | [170930] 奇迹年轮 （初音ミク） | ❌ |
 | [<img src="./cover/I.jpg" width="100" align="middle" />](https://vocadb.net/Al/25137) | [180210] I （初音ミク） | |
 | [<img src="./cover/华哉有夏.jpg" width="100" align="middle" />](https://vocadb.net/Al/24671) | [180516] 华哉有夏 （乐正绫;乐正龙牙;洛天依;言和） | |
 | [<img src="./cover/∞.jpg" width="100" align="middle" />](https://vocadb.net/Al/25608) | [180706] ∞ （洛天依） | |
