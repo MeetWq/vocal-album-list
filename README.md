@@ -90,7 +90,7 @@
 | [<img src="./cover/初梦 Deluxe.jpg" width="100" align="middle" />](https://vocadb.net/Al/24198) | [180116] 初梦 Deluxe （初音ミク） | |
 | [<img src="./cover/恋糖.jpg" width="100" align="middle" />](https://vocadb.net/Al/26918) | [190715] 恋糖 （初音ミク） | |
 | AnoProject | | |
-| [<img src="./cover/秘密邮件.png" width="100" align="middle" />](https://vocadb.net/Al/25982) | [181117] 秘密邮件 （galaco;IA;MAYU;初音ミク;結月ゆかり;乐正绫;洛天依;心华;言和） | ❌ |
+| [<img src="./cover/秘密邮件.png" width="100" align="middle" />](https://vocadb.net/Al/25982) | [181117] 秘密邮件 （galaco;IA;MAYU;初音ミク;結月ゆかり;乐正绫;洛天依;心华;言和） | |
 | [<img src="./cover/琉璃色前奏曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/28489) | [200617] 琉璃色前奏曲 （洛天依） | ❌ |
 | BE pharma. | | |
 | [<img src="./cover/聲跡.jpg" width="100" align="middle" />](https://vocadb.net/Al/26076) | [181208] 声迹 BEsappear （初音ミク;夏语遥;心华） | ❌ |
@@ -102,10 +102,10 @@
 | [<img src="./cover/深潜之宙.jpg" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） | |
 | 个人专辑 | | |
 | 裕剑流 | | |
-| [<img src="./cover/重力幻想曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/6613) | [130526] 重力幻想曲 （GUMI;初音ミク;鏡音リン;鏡音レン;洛天依;阮小七） | ❌ |
+| [<img src="./cover/重力幻想曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/6613) | [130526] 重力幻想曲 （GUMI;初音ミク;鏡音リン;鏡音レン;洛天依;阮小七） | |
 | [<img src="./cover/354机甲少女骑士团.jpg" width="100" align="middle" />](https://vocadb.net/Al/7890) | [131123] 354机甲少女骑士团 （GUMI;IA;KAITO;初音ミク;鏡音リン;鏡音レン;洛天依;言和） | |
 | [<img src="./cover/放学后的文学部.jpg" width="100" align="middle" />](https://vocadb.net/Al/9079) | [140510] 放学后的文学部 （GUMI;IA;KAITO;初音ミク;鏡音リン;鏡音レン;洛天依;言和） | |
-| [<img src="./cover/飞行梦.jpg" width="100" align="middle" />](https://vocadb.net/Al/27392) | [200501] 飞行梦 （乐正绫;洛天依;神威がくぽ;萧桦坚;言和） | ❌ |
+| [<img src="./cover/飞行梦.jpg" width="100" align="middle" />](https://vocadb.net/Al/27392) | [200501] 飞行梦 （乐正绫;洛天依;神威がくぽ;萧桦坚;言和） | |
 | DELA & 雨狸 | | |
 | [<img src="./cover/Saligia·孤独的七种形态.jpg" width="100" align="middle" />](https://vocadb.net/Al/16263) | [140802] Saligia·孤独的七种形态 （洛天依;言和） | |
 | [<img src="./cover/Dear_.jpg" width="100" align="middle" />](https://vocadb.net/Al/18508) | [160915] Dear: （乐正绫;洛天依;星尘;言和） | |
