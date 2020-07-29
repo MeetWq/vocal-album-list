@@ -56,7 +56,7 @@
 | [<img src="./cover/三月雨.jpg" width="100" align="middle" />](https://vocadb.net/Al/7974) | [121214] 三月雨 （洛天依） | |
 | [<img src="./cover/忆香.jpg" width="100" align="middle" />](https://vocadb.net/Al/6614) | [130731] 忆香 （洛天依;言和） | |
 | [<img src="./cover/失落的機械城II.jpg" width="100" align="middle" />](https://vocadb.net/Al/9299) | [140430] 失落的机械城Ⅱ：虚浮之都 （初音ミク;泠鸢yousa;洛天依;祈Inory;山新） | |
-| [<img src="./cover/Travel Days.jpg" width="100" align="middle" />](https://vocadb.net/Al/15163) | [150930] Travel Days （不才;景三;乐正绫;泠鸢yousa;洛天依;祈Inory;心华;羊田;佑可猫） | ❌ |
+| [<img src="./cover/Travel Days.jpg" width="100" align="middle" />](https://vocadb.net/Al/15163) | [150930] Travel Days （不才;景三;乐正绫;泠鸢yousa;洛天依;祈Inory;心华;羊田;佑可猫） | |
 | 咏吟轩 | | |
 | [<img src="./cover/第一步.jpg" width="100" align="middle" />](https://vocadb.net/Al/3533) | [130511] 第一步 （洛天依） | |
 | [<img src="./cover/第二页.jpg" width="100" align="middle" />](https://vocadb.net/Al/9430) | [140712] 第二页 （洛天依;言和） | |
@@ -170,10 +170,8 @@
 | [<img src="./cover/Miles;Smile.jpg" width="100" align="middle" />](https://vocadb.net/Al/9959) | [121222] Miles;Smile （サクヤ;初音ミク;泠鸢yousa;洛天依;鸦糜;杨云翔） | ❌ |
 | [<img src="./cover/絲染蒼黃.jpg" width="100" align="middle" />](https://vocadb.net/Al/7891) | [130320] 丝染苍黄 （洛天依） | |
 | [<img src="./cover/花洛兮.jpg" width="100" align="middle" />](https://vocadb.net/Al/7901) | [131020] 花洛兮 （洛天依） | ❌ |
-| [<img src="./cover/感谢.jpg" width="100" align="middle" />](https://vocadb.net/Al/7919) | [131122] 感谢 （洛天依） | ❌ |
 | [<img src="./cover/X-Loid.jpg" width="100" align="middle" />](https://vocadb.net/Al/8008) | [140304] X-Loid （初音ミク;洛天依） | |
 | [<img src="./cover/Vocaloeater.jpg" width="100" align="middle" />](https://vocadb.net/Al/12436) | [140518] Vocaloeater （洛天依;言和） | ❌ |
-| [<img src="./cover/Distortion and Overdrive.png" width="100" align="middle" />](https://vocadb.net/Al/18031) | [140601] Distortion and Overdrive （GUMI;洛天依;佑可猫;水曜日） | ❌ |
 | [<img src="./cover/芳菲九陌.jpg" width="100" align="middle" />](https://vocadb.net/Al/14880) | [140825] 芳菲九陌 （洛天依） | ❌ |
 | [<img src="./cover/月行書.jpg" width="100" align="middle" />](https://vocadb.net/Al/9706) | [140901] 月行书 （洛天依;言和） | ❌ |
 | [<img src="./cover/红-花开时代.jpg" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） | |
