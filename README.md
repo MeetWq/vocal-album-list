@@ -1,8 +1,4 @@
-自己整理的 中V & SV 相关专辑列表，绝大部分数据来源于 [VocaDB](https://vocadb.net/)
-
-希望各路大佬能补充和指正
-
-可以交换电子专辑，有红叉的是我没有的
+中V & SV 相关专辑列表，绝大部分数据来源于 [VocaDB](https://vocadb.net/)
 
 | 专辑图片 | [发行时间] 专辑名称 （歌手） | 有/无 |
 | :-: | - | - |
@@ -37,10 +33,10 @@
 | [<img src="./cover/亚特兰蒂斯.jpg" width="100" align="middle" />](https://vocadb.net/Al/25781) | [181031] 亚特兰蒂斯 （海伊） | |
 | [<img src="./cover/天方夜谭.jpg" width="100" align="middle" />](https://vocadb.net/Al/26310) | [190331] 天方夜谭 （星尘;海伊;苍穹） | |
 | [<img src="./cover/天马行空.jpg" width="100" align="middle" />](https://vocadb.net/Al/26831) | [190706] 天马行空 （星尘;赤羽;诗岸） | |
-| [<img src="./cover/星尘官方CG作品集 Vol. 1.png" width="100" align="middle" />](https://vocadb.net/Al/27121) | [190812] 星尘官方CG作品集 Vol. 1 （星尘） | ❌ |
+| [<img src="./cover/星尘官方CG作品集 Vol. 1.png" width="100" align="middle" />](https://vocadb.net/Al/27121) | [190812] 星尘官方CG作品集 Vol. 1 （星尘） | |
 | [<img src="./cover/森罗万象.jpg" width="100" align="middle" />](https://vocadb.net/Al/27358) | [191006] 森罗万象 （星尘;赤羽;海伊） | |
 | [<img src="./cover/丛林法则.png" width="100" align="middle" />](https://vocadb.net/Al/28018) | [200228] 丛林法则 （星尘;苍穹;诗岸） | |
-| [<img src="./cover/吉光片羽.jpg" width="100" align="middle" />](https://vocadb.net/Al/28411) | [200612] 吉光片羽 （星尘;苍穹;赤羽） | ❌ |
+| [<img src="./cover/吉光片羽.jpg" width="100" align="middle" />](https://vocadb.net/Al/28411) | [200612] 吉光片羽 （星尘;苍穹;赤羽） | |
 | 望乘 | | |
 | [<img src="./cover/心華.png" width="100" align="middle" />](https://vocadb.net/Al/16707) | [160204] 心華 （心华） | |
 | [<img src="./cover/華彩.png" width="100" align="middle" />](https://vocadb.net/Al/22959) | [170708] 华彩 （心华） | |
@@ -93,10 +89,10 @@
 | [<img src="./cover/秘密邮件.png" width="100" align="middle" />](https://vocadb.net/Al/25982) | [181117] 秘密邮件 （galaco;IA;MAYU;初音ミク;結月ゆかり;乐正绫;洛天依;心华;言和） | |
 | [<img src="./cover/琉璃色前奏曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/28489) | [200617] 琉璃色前奏曲 （洛天依） | ❌ |
 | BE pharma. | | |
-| [<img src="./cover/聲跡.jpg" width="100" align="middle" />](https://vocadb.net/Al/26076) | [181208] 声迹 BEsappear （初音ミク;夏语遥;心华） | ❌ |
+| [<img src="./cover/聲跡.jpg" width="100" align="middle" />](https://vocadb.net/Al/26076) | [181208] 声迹 BEsappear （初音ミク;夏语遥;心华） | |
 | 糖果工坊 | | |
 | [<img src="./cover/维·爱.jpg" width="100" align="middle" />](https://vocadb.net/Al/27673) | [191116] 维·爱L'amouЯ （苍穹;赤羽;海伊;诗岸;星尘） | |
-| [<img src="./cover/FIND ZERO.jpg" width="100" align="middle" />](https://vocadb.net/Al/28538) | [200708] FIND ZERO （苍穹;赤羽;赤塚優一;初音ミク;海伊;星尘） | ❌ |
+| [<img src="./cover/FIND ZERO.jpg" width="100" align="middle" />](https://vocadb.net/Al/28538) | [200708] FIND ZERO （苍穹;赤羽;赤塚優一;初音ミク;海伊;星尘） | |
 | 奶牛组 | | |
 | [<img src="./cover/止谎剂.jpg" width="100" align="middle" />](https://vocadb.net/Al/27802) | [191221] 止谎剂 （苍穹;诗岸;星尘） | |
 | [<img src="./cover/深潜之宙.jpg" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） | |
@@ -118,7 +114,7 @@
 | [<img src="./cover/Godrose.jpg" width="100" align="middle" />](https://vocadb.net/Al/28432) | [180201] Godrose （乐正绫;乐正龙牙;洛天依;言和;鏡音レン） | |
 | [<img src="./cover/火葬.jpg" width="100" align="middle" />](https://zh.moegirl.org/火葬) | [180201] 火葬 （鏡音レン） | |
 | iKz_茶壶 | | |
-| [<img src="./cover/幻想·幻境.jpg" width="100" align="middle" />](https://vocadb.net/Al/18329) | [160609] 幻想·幻境 （乐正绫;祖娅纳惜） | ❌ |
+| [<img src="./cover/幻想·幻境.jpg" width="100" align="middle" />](https://vocadb.net/Al/18329) | [160609] 幻想·幻境 （乐正绫;祖娅纳惜） | |
 | 阿良良木健 | | |
 | [<img src="./cover/恋爱理论.jpg" width="100" align="middle" />](https://vocadb.net/Al/18480) | [160809] 恋爱理论 （洛天依;乐正绫） | |
 | [<img src="./cover/奇爱人生.jpg" width="100" align="middle" />](https://vocadb.net/Al/26031) | [181116] 奇爱人生 （洛天依;乐正绫;乐正龙牙;墨清弦;言和;徵羽摩柯） | |
@@ -140,18 +136,21 @@
 | Sya | | |
 | [<img src="./cover/Kill My.jpg" width="100" align="middle" />](https://vocadb.net/Al/23579) | [171209] Kill My （洛天依;言和） | |
 | [<img src="./cover/肆自.jpg" width="100" align="middle" />](https://vocadb.net/Al/26482) | [190329] 肆自 （洛天依） | |
+| [<img src="./cover/𝐋𝐀𝐘.png" width="100" align="middle" />](https://vocadb.net/Al/28563) | [190329] 𝐋𝐀𝐘 （洛天依） | |
 | 枭目☆moku | | |
 | [<img src="./cover/卡纳塔幻想曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/24483) | [180320] 卡纳塔幻想曲 （乐正绫;乐正龙牙;洛天依;星尘;言和） | |
 | [<img src="./cover/諾.gif" width="100" align="middle" />](https://vocadb.net/Al/26728) | [190518] 諾 （言和） | |
 | ACK★ | | |
 | [<img src="./cover/骤雨初歇.jpg" width="100" align="middle" />](https://vocadb.net/Al/26648) | [180804] 骤雨初歇 （洛天依;星尘;言和） | |
-| [<img src="./cover/所能看见的我的全部.jpg" width="100" align="middle" />](https://vocadb.net/Al/27316) | [190803] 所能看见的我的全部 （IA;Mac音ナナ;初音ミク;洛天依;言和） | ❌ |
+| [<img src="./cover/所能看见的我的全部.jpg" width="100" align="middle" />](https://vocadb.net/Al/27316) | [190803] 所能看见的我的全部 （IA;Mac音ナナ;初音ミク;洛天依;言和） | |
 | Fizer0046 | | |
 | [<img src="./cover/雨中巴士站.jpg" width="100" align="middle" />](https://vocadb.net/Al/26766) | [181110] 雨中巴士站 （星尘） | |
 | [<img src="./cover/塌陷于38°C的蓝.jpg" width="100" align="middle" />](https://vocadb.net/Al/28276) | [200301] 塌陷于38°C的蓝 （海伊;诗岸;星尘） | |
 | [<img src="./cover/月光入侵计划.jpg" width="100" align="middle" />](https://vocadb.net/Al/28577) | [200727] 月光入侵计划 （诗岸） | |
+| 电鱼 | | |
+| [<img src="./cover/碎屑.png" width="100" align="middle" />](https://vocadb.net/Al/28651) | [200809] 碎屑 （海伊;星尘） | |
 | 米库喵 | | |
-| [<img src="./cover/STILL WITH U.jpg" width="100" align="middle" />](https://vocadb.net/Al/26374) | [181117] STILL WITH U （初音ミク） | ❌ |
+| [<img src="./cover/STILL WITH U.jpg" width="100" align="middle" />](https://vocadb.net/Al/26374) | [181117] STILL WITH U （初音ミク） | |
 | 味素 | | |
 | [<img src="./cover/SPICE.jpg" width="100" align="middle" />](https://vocadb.net/Al/26059) | [181215] SPICE （初音ミク） | |
 | 绛舞乱丸 | | |
@@ -166,13 +165,15 @@
 | [<img src="./cover/甘泽谣.jpg" width="100" align="middle" />](https://vocadb.net/Al/28323) | [200424] 甘泽谣 （乐正绫;乐正龙牙;洛天依;墨清弦;星尘;言和） | |
 | 夜屠灵 | | |
 | [<img src="./cover/海盼伊人.jpg" width="100" align="middle" />](https://vocadb.net/Al/28342) | [200520] 海盼伊人 （海伊） | |
+| 绿萝组 | | |
+| [<img src="./cover/百万花王 银河版.jpg" width="100" align="middle" />](https://vocadb.net/Al/25814) | [200812] 百万花王 银河版 （星尘） | |
 | 其他专辑 | | |
-| [<img src="./cover/Miles;Smile.jpg" width="100" align="middle" />](https://vocadb.net/Al/9959) | [121222] Miles;Smile （サクヤ;初音ミク;泠鸢yousa;洛天依;鸦糜;杨云翔） | ❌ |
+| [<img src="./cover/Miles;Smile.jpg" width="100" align="middle" />](https://vocadb.net/Al/9959) | [121222] Miles;Smile （サクヤ;初音ミク;泠鸢yousa;洛天依;鸦糜;杨云翔） | |
 | [<img src="./cover/絲染蒼黃.jpg" width="100" align="middle" />](https://vocadb.net/Al/7891) | [130320] 丝染苍黄 （洛天依） | |
 | [<img src="./cover/花洛兮.jpg" width="100" align="middle" />](https://vocadb.net/Al/7901) | [131020] 花洛兮 （洛天依） | ❌ |
 | [<img src="./cover/X-Loid.jpg" width="100" align="middle" />](https://vocadb.net/Al/8008) | [140304] X-Loid （初音ミク;洛天依） | |
 | [<img src="./cover/Vocaloeater.jpg" width="100" align="middle" />](https://vocadb.net/Al/12436) | [140518] Vocaloeater （洛天依;言和） | ❌ |
-| [<img src="./cover/芳菲九陌.jpg" width="100" align="middle" />](https://vocadb.net/Al/14880) | [140825] 芳菲九陌 （洛天依） | ❌ |
+| [<img src="./cover/芳菲九陌.jpg" width="100" align="middle" />](https://vocadb.net/Al/14880) | [140825] 芳菲九陌 （洛天依） | |
 | [<img src="./cover/月行書.jpg" width="100" align="middle" />](https://vocadb.net/Al/9706) | [140901] 月行书 （洛天依;言和） | ❌ |
 | [<img src="./cover/红-花开时代.jpg" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） | |
 | [<img src="./cover/只是孩子.png" width="100" align="middle" />](https://vocadb.net/Al/18369) | [160618] 只是孩子 （洛天依;言和） | ❌ |
@@ -188,9 +189,9 @@
 | [<img src="./cover/No.13852.jpg" width="100" align="middle" />](https://vocadb.net/Al/26885) | [180907] No.13852 （洛天依;言和;心华） | |
 | [<img src="./cover/星临.jpg" width="100" align="middle" />](https://vocadb.net/Al/27154) | [181001] 星临 （星砂;星尘;洛亦天;言和;乐正龙牙） | |
 | [<img src="./cover/未来之旅.jpg" width="100" align="middle" />](https://vocadb.net/Al/26063) | [181011] 未来之旅 （初音ミク） | |
-| [<img src="./cover/人造树的幽灵.jpg" width="100" align="middle" />](https://vocadb.net/Al/25683) | [181102] 人造树的幽灵 （徵羽摩柯） | ❌ |
+| [<img src="./cover/人造树的幽灵.jpg" width="100" align="middle" />](https://vocadb.net/Al/25683) | [181102] 人造树的幽灵 （徵羽摩柯） | |
 | [<img src="./cover/末日－ENDLESS－.png" width="100" align="middle" />](https://www.bilibili.com/video/BV1ob411U7A3) | [190209] 末日－ENDLESS－ （星尘;心华;初音ミク;薛南;kier;いくせん） | ❌ |
-| [<img src="./cover/THE GALLERY.jpg" width="100" align="middle" />](https://vocadb.net/Al/27037) | [190731] THE GALLERY （星尘;赤羽） | ❌ |
+| [<img src="./cover/THE GALLERY.jpg" width="100" align="middle" />](https://vocadb.net/Al/27037) | [190731] THE GALLERY （星尘;赤羽） | |
 | [<img src="./cover/柒.jpg" width="100" align="middle" />](https://vocadb.net/Al/27359) | [191210] 柒 （洛天依;乐正绫;言和） | |
 | [<img src="./cover/Cotton Candy.jpg" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） | |
 | [<img src="./cover/FM40.4.jpg" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） | |
