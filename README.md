@@ -178,6 +178,9 @@
 | [<img src="./thumb/1987.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/1987) | [211026] 1987 （苍穹;诗岸;星尘Minus） |
 | 康师傅の海鲜面 | |
 | [<img src="./thumb/甘泽谣.jpg" width="100" align="middle" />](https://vocadb.net/Al/28323) | [200424] 甘泽谣 （乐正绫;乐正龙牙;洛天依;墨清弦;星尘;言和） |
+| 夜屠灵 | |
+| [<img src="./thumb/海盼伊人.jpg" width="100" align="middle" />](https://vocadb.net/Al/28342) | [200520] 海盼伊人 （海伊） |
+| [<img src="./thumb/为羽轻歌.jpg" width="100" align="middle" />](https://vocadb.net/Al/28797) | [200901] 为羽轻歌 （赤羽） |
 | 喻川 | |
 | [<img src="./thumb/Mystery.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/Mystery) | [200725] Mystery （乐正龙牙;乐正绫;苍穹;赤羽） |
 | [<img src="./thumb/Write You a Song.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/WriteYouaSong) | [210101] Write You a Song （乐正龙牙;赤羽;苍穹;Eleanor Forte;星尘Minus） |
@@ -211,10 +214,6 @@
 | [<img src="./thumb/諾II：誓.jpg" width="100" align="middle" />](https://vocadb.net/Al/30324) | [210710] 諾II：誓 （言和） |
 | 星尘 | |
 | [<img src="./thumb/FM40.4.jpg" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） |
-| 海伊 | |
-| [<img src="./thumb/海盼伊人.jpg" width="100" align="middle" />](https://vocadb.net/Al/28342) | [200520] 海盼伊人 （海伊） |
-| 赤羽 | |
-| [<img src="./thumb/为羽轻歌.jpg" width="100" align="middle" />](https://vocadb.net/Al/28797) | [200901] 为羽轻歌 （赤羽） |
 | 初音ミク | |
 | [<img src="./thumb/未来之旅.jpg" width="100" align="middle" />](https://vocadb.net/Al/26063) | [181011] 未来之旅 （初音ミク） |
 | [<img src="./thumb/暗適應ЯEMOTION.jpg" width="100" align="middle" />](https://vocadb.net/Al/27507) | [191221] 暗适应ЯEMOTION （初音ミク） |
