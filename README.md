@@ -17,6 +17,9 @@
 | [<img src="./thumb/Side B.jpg" width="100" align="middle" />](https://vocadb.net/Al/28409) | [200520] Side B （墨清弦） |
 | [<img src="./thumb/白日梦.jpg" width="100" align="middle" />](https://vocadb.net/Al/28540) | [200711] 白日梦 （言和） |
 | [<img src="./thumb/Moments.jpg" width="100" align="middle" />](https://vocadb.net/Al/28542) | [200712] Moments （洛天依） |
+| [<img src="./thumb/夜游会.jpg" width="100" align="middle" />](https://vocadb.net/Al/28873) | [201002] 夜游会 （乐正龙牙） |
+| [<img src="./thumb/Message.jpg" width="100" align="middle" />](https://vocadb.net/Al/29250) | [201210] Message （徵羽摩柯） |
+| [<img src="./thumb/Color Flow.jpg" width="100" align="middle" />](https://vocadb.net/Al/30465) | [210710] Color Flow （洛天依;乐正绫;言和;乐正龙牙;墨清弦;徵羽摩柯） |
 | 平行四界 | |
 | [<img src="./thumb/平行四界.jpg" width="100" align="middle" />](https://vocadb.net/Al/8040) | [140321] 平行四界 （洛天依） |
 | [<img src="./thumb/平行四界 2.jpg" width="100" align="middle" />](https://vocadb.net/Al/9860) | [141115] 平行四界 2 （洛天依） |
@@ -38,6 +41,8 @@
 | [<img src="./thumb/丛林法则.jpg" width="100" align="middle" />](https://vocadb.net/Al/28018) | [200228] 丛林法则 （星尘;苍穹;诗岸） |
 | [<img src="./thumb/吉光片羽.jpg" width="100" align="middle" />](https://vocadb.net/Al/28411) | [200612] 吉光片羽 （星尘;苍穹;赤羽） |
 | [<img src="./thumb/海纳百川.jpg" width="100" align="middle" />](https://vocadb.net/Al/29081) | [201107] 海纳百川 （星尘;海伊;诗岸） |
+| [<img src="./thumb/平行四界 X-1.jpg" width="100" align="middle" />](https://vocadb.net/Al/30108) | [210604] 平行四界 X-1 （星尘;海伊;赤羽;苍穹;诗岸;星尘Minus;牧心） |
+| [<img src="./thumb/平行四界 X-2.jpg" width="100" align="middle" />](https://vocadb.net/Al/30994) | [211029] 平行四界 X-2 （星尘;海伊;赤羽;苍穹;诗岸;星尘Minus;牧心） |
 | 望乘 | |
 | [<img src="./thumb/心華.jpg" width="100" align="middle" />](https://vocadb.net/Al/16707) | [160204] 心華 （心华） |
 | [<img src="./thumb/華彩.jpg" width="100" align="middle" />](https://vocadb.net/Al/22959) | [170708] 华彩 （心华） |
@@ -73,6 +78,7 @@
 | [<img src="./thumb/起点.jpg" width="100" align="middle" />](https://vocadb.net/Al/22429) | [170223] 起点 （鏡音リン;洛天依） |
 | [<img src="./thumb/华哉有夏.jpg" width="100" align="middle" />](https://vocadb.net/Al/24671) | [180516] 华哉有夏 （乐正绫;乐正龙牙;洛天依;言和） |
 | [<img src="./thumb/柒.jpg" width="100" align="middle" />](https://vocadb.net/Al/27359) | [191210] 柒 （洛天依;乐正绫;言和） |
+| [<img src="./thumb/华哉有夏·贰.jpg" width="100" align="middle" />](https://vocadb.net/Al/29658) | [210211] 华哉有夏·贰 （洛天依;言和;乐正绫;乐正龙牙） |
 | 无名社 | |
 | [<img src="./thumb/无名.jpg" width="100" align="middle" />](https://vocadb.net/Al/26382) | [170501] 无名 （洛天依;言和;乐正绫;星尘;心华） |
 | [<img src="./thumb/名字.jpg" width="100" align="middle" />](https://vocadb.net/Al/27155) | [190913] 名字 （洛天依;言和;乐正绫;星尘;起复;起礼） |
@@ -93,6 +99,8 @@
 | [<img src="./thumb/深潜之宙.jpg" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） |
 | 绿萝组 | |
 | [<img src="./thumb/百万花王 银河版.jpg" width="100" align="middle" />](https://vocadb.net/Al/25814) | [200812] 百万花王 （星尘） |
+| 忘川风华录 | |
+| [<img src="./thumb/踏浪.jpg" width="100" align="middle" />](https://vocadb.net/Al/30524) | [210728] 踏浪 （赤羽;海伊;苍穹;诗岸;星尘Minus;叁琏） |
 | 个人专辑 | |
 | 裕剑流 | |
 | [<img src="./thumb/重力幻想曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/6613) | [130526] 重力幻想曲 （GUMI;初音ミク;鏡音リン;鏡音レン;洛天依;阮小七） |
@@ -103,6 +111,7 @@
 | [<img src="./thumb/Saligia·孤独的七种形态.jpg" width="100" align="middle" />](https://vocadb.net/Al/16263) | [140802] Saligia·孤独的七种形态 （洛天依;言和） |
 | [<img src="./thumb/Dear_.jpg" width="100" align="middle" />](https://vocadb.net/Al/18508) | [160915] Dear: （乐正绫;洛天依;星尘;言和） |
 | [<img src="./thumb/妄想症Paranoia.png" width="100" align="middle" />](https://vocadb.net/Al/22377) | [170317] 妄想症Paranoia （乐正绫;洛天依;言和） |
+| [<img src="./thumb/Dear_2.jpg" width="100" align="middle" />](https://vocadb.net/Al/30284) | [210612] Dear:2 （洛天依;乐正绫;言和） |
 | TUNO桐音 | |
 | [<img src="./thumb/南北寻光.jpg" width="100" align="middle" />](https://vocadb.net/Al/14994) | [150816] 南北寻光 （乐正绫;洛天依） |
 | [<img src="./thumb/南北寻光（最终版）.jpg" width="100" align="middle" />](https://vocadb.net/Al/22683) | [170320] 南北寻光（最终版） （乐正绫;洛天依） |
@@ -123,6 +132,7 @@
 | [<img src="./thumb/如是我闻.jpg" width="100" align="middle" />](https://vocadb.net/Al/25674) | [181029] 如是我闻 （洛天依;言和;乐正绫;星尘;心华;乐正龙牙;墨清弦;徵羽摩柯） |
 | PoKeR | |
 | [<img src="./thumb/秒.jpg" width="100" align="middle" />](https://vocadb.net/Al/20042) | [161203] 秒 （洛天依） |
+| [<img src="./thumb/星座.jpg" width="100" align="middle" />](https://vocadb.net/Al/29392) | [210101] 星座 （洛天依;乐正绫） |
 | 桑葚上的猴子 | |
 | [<img src="./thumb/节气物语(春夏卷).jpg" width="100" align="middle" />](https://vocadb.net/Al/18347) | [170315] 节气物语(春夏卷) （乐正绫;洛天依） |
 | 小野道ono | |
@@ -159,6 +169,10 @@
 | [<img src="./thumb/Cotton Candy.jpg" width="100" align="middle" />](https://vocadb.net/Al/28221) | [200320] Cotton Candy （音街ウナ;星尘;洛天依;乐正绫） |
 | 康师傅の海鲜面 | |
 | [<img src="./thumb/甘泽谣.jpg" width="100" align="middle" />](https://vocadb.net/Al/28323) | [200424] 甘泽谣 （乐正绫;乐正龙牙;洛天依;墨清弦;星尘;言和） |
+| 喻川 | |
+| [<img src="./thumb/Mystery.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/Mystery) | [200725] Mystery （乐正龙牙;乐正绫;苍穹;赤羽） |
+| [<img src="./thumb/Write You a Song.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/WriteYouaSong) | [210101] Write You a Song （乐正龙牙;赤羽;苍穹;Eleanor Forte;星尘Minus） |
+| [<img src="./thumb/King.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/King) | [200612] King （乐正龙牙;赤羽） |
 | 电鱼 | |
 | [<img src="./thumb/碎屑.jpg" width="100" align="middle" />](https://vocadb.net/Al/28651) | [200809] 碎屑 （海伊;星尘） |
 | Litterzy & 枭目moku | |
@@ -169,6 +183,8 @@
 | [<img src="./thumb/少女独白体.jpg" width="100" align="middle" />](https://vocadb.net/Al/29073) | [201025] 少女独白体 （心华） |
 | 闹闹 | |
 | [<img src="./thumb/依·睐.jpg" width="100" align="middle" />](https://vocadb.net/Al/29120) | [201025] 依·睐 （洛天依） |
+| 莫与人辩 | |
+| [<img src="./thumb/桃花雪.jpg" width="100" align="middle" />](https://vocadb.net/Al/29911) | [210606] 桃花雪 （洛天依;乐正绫） |
 | 歌姬only专辑 | |
 | 洛天依 | |
 | [<img src="./thumb/∞.jpg" width="100" align="middle" />](https://vocadb.net/Al/25608) | [180706] ∞ （洛天依） |
@@ -177,9 +193,11 @@
 | 乐正绫 | |
 | [<img src="./thumb/Ling聽.jpg" width="100" align="middle" />](https://vocadb.net/Al/22963) | [170707] Ling听 （乐正绫） |
 | [<img src="./thumb/绫歌泛夜.jpg" width="100" align="middle" />](https://music.163.com/#/album?id=35963753) | [170818] 绫歌泛夜 （乐正绫） |
+| [<img src="./thumb/百变绫绫.jpg" width="100" align="middle" />](https://vocadb.net/Al/29954) | [210612] 百变绫绫 （乐正绫） |
 | 言和 | |
 | [<img src="./thumb/遇定调和.jpg" width="100" align="middle" />](https://vocadb.net/Al/24882) | [180711] 预定调和 （言和） |
 | [<img src="./thumb/諾.jpg" width="100" align="middle" />](https://vocadb.net/Al/26728) | [190518] 諾 （言和） |
+| [<img src="./thumb/諾II：誓.jpg" width="100" align="middle" />](https://vocadb.net/Al/30324) | [210710] 諾II：誓 （言和） |
 | 星尘 | |
 | [<img src="./thumb/FM40.4.jpg" width="100" align="middle" />](https://vocadb.net/Al/28013) | [200330] FM40.4 （星尘） |
 | 海伊 | |
