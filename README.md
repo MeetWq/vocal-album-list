@@ -23,7 +23,8 @@
 | [<img src="./thumb/Special Wishes 2021.jpg" width="100" align="middle" />](https://vocadb.net/Al/31353) | [211211] Special Wishes 2021 （洛天依;乐正绫;言和;乐正龙牙;墨清弦;徵羽摩柯） |
 | [<img src="./thumb/和光同尘.jpg" width="100" align="middle" />](https://vocadb.net/Al/32192) | [220214] 和光同尘 （洛天依;乐正绫;言和;乐正龙牙;墨清弦;徵羽摩柯） |
 | [<img src="./thumb/依如初见.jpg" width="100" align="middle" />](https://vocadb.net/Al/34149) | [220710] 依如初见 （洛天依AI） |
-| [<img src="./thumb/无尽蓝.jpg" width="100" align="middle" />](https://vocadb.net/Al/36050) | [220710] 无尽蓝 （洛天依AI） |
+| [<img src="./thumb/喧闹世界.jpg" width="100" align="middle" />](https://vocadb.net/Al/36064) | [220924] 喧闹世界 （洛天依;洛天依AI;乐正绫;言和;乐正龙牙;墨清弦;徵羽摩柯） |
+| [<img src="./thumb/无尽蓝.jpg" width="100" align="middle" />](https://vocadb.net/Al/36050) | [221229] 无尽蓝 （洛天依AI） |
 | 平行四界 | |
 | [<img src="./thumb/平行四界.jpg" width="100" align="middle" />](https://vocadb.net/Al/8040) | [140321] 平行四界 （洛天依） |
 | [<img src="./thumb/平行四界 2.jpg" width="100" align="middle" />](https://vocadb.net/Al/9860) | [141115] 平行四界 2 （洛天依） |
@@ -85,6 +86,8 @@
 | [<img src="./thumb/妄想症Paranoia.png" width="100" align="middle" />](https://vocadb.net/Al/22377) | [170317] 妄想症Paranoia （乐正绫;洛天依;言和） |
 | [<img src="./thumb/Dear_2.jpg" width="100" align="middle" />](https://vocadb.net/Al/30284) | [210612] Dear:2 （洛天依;乐正绫;言和） |
 | [<img src="./thumb/αrtist5_塔与少女_.jpg" width="100" align="middle" />](https://vocadb.net/Al/31297) | [210612] αrtist5~塔与少女~ （洛天依;乐正绫;言和;墨清弦;艾尔法） |
+| 恶妖组 | |
+| [<img src="./thumb/只是孩子.jpg" width="100" align="middle" />](https://vocadb.net/Al/18369) | [160618] 只是孩子 （洛天依;言和） |
 | 起点Project | |
 | [<img src="./thumb/起点.jpg" width="100" align="middle" />](https://vocadb.net/Al/22429) | [170223] 起点 （鏡音リン;洛天依） |
 | [<img src="./thumb/华哉有夏.jpg" width="100" align="middle" />](https://vocadb.net/Al/24671) | [180516] 华哉有夏 （乐正绫;乐正龙牙;洛天依;言和） |
@@ -104,6 +107,8 @@
 | [<img src="./thumb/恋糖.jpg" width="100" align="middle" />](https://vocadb.net/Al/26918) | [190715] 恋糖 （初音ミク） |
 | 彼方人偶 | |
 | [<img src="./thumb/卡纳塔幻想曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/24483) | [180320] 卡纳塔幻想曲 （乐正绫;乐正龙牙;洛天依;星尘;言和） |
+| 阳C音乐 | |
+| [<img src="./thumb/天宫九问.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV13s411w79d) | [180731] 天宫九问 （洛天依;乐正绫） |
 | 糖果工坊 | |
 | [<img src="./thumb/维·爱.jpg" width="100" align="middle" />](https://vocadb.net/Al/27673) | [191116] 维·爱L'amouЯ （苍穹;赤羽;海伊;诗岸;星尘） |
 | [<img src="./thumb/FIND ZERO.jpg" width="100" align="middle" />](https://vocadb.net/Al/28538) | [200708] FIND ZERO （苍穹;赤羽;赤塚優一;初音ミク;海伊;星尘） |
@@ -111,9 +116,10 @@
 | [<img src="./thumb/止谎剂.jpg" width="100" align="middle" />](https://vocadb.net/Al/27802) | [191221] 止谎剂 （苍穹;诗岸;星尘） |
 | [<img src="./thumb/深潜之宙.jpg" width="100" align="middle" />](https://vocadb.net/Al/27800) | [191221] 深潜之宙 （苍穹） |
 | 响铃社 | |
-| [<img src="./thumb/淡漠.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/flicker00) | [200606] 淡漠 （赤羽;诗岸;Eleanor Forte） |
 | [<img src="./thumb/全负武装.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/XLP) | [210306] 全负武装 （赤羽;海伊;诗岸;星尘Minus;星尘） |
 | [<img src="./thumb/赤·潮.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/XLP02) | [211126] 赤·潮 （赤羽） |
+| [<img src="./thumb/黑光.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/XLP03) | [220403] 黑光 （赤羽;星尘Infinity;星尘Minus;海伊;诗岸） |
+| [<img src="./thumb/噪动.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/XLP04) | [221128] 噪动 （星尘Infinity;星尘Minus;诗岸;苍穹） |
 | 绿萝组 | |
 | [<img src="./thumb/百万花王 银河版.jpg" width="100" align="middle" />](https://vocadb.net/Al/25814) | [200812] 百万花王 （星尘） |
 | 忘川风华录 | |
@@ -195,6 +201,8 @@
 | 夜屠灵 | |
 | [<img src="./thumb/海盼伊人.jpg" width="100" align="middle" />](https://vocadb.net/Al/28342) | [200520] 海盼伊人 （海伊） |
 | [<img src="./thumb/为羽轻歌.jpg" width="100" align="middle" />](https://vocadb.net/Al/28797) | [200901] 为羽轻歌 （赤羽） |
+| 苏打是药 | |
+| [<img src="./thumb/淡漠.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/flicker00) | [200606] 淡漠 （赤羽;诗岸;Eleanor Forte） |
 | 喻川 | |
 | [<img src="./thumb/Mystery.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/Mystery) | [200725] Mystery （乐正龙牙;乐正绫;苍穹;赤羽） |
 | [<img src="./thumb/Write You a Song.jpg" width="100" align="middle" />](https://www.dizzylab.net/d/WriteYouaSong) | [210101] Write You a Song （乐正龙牙;赤羽;苍穹;Eleanor Forte;星尘Minus） |
@@ -216,9 +224,15 @@
 | 瞳荧 | |
 | [<img src="./thumb/我从人间走过.jpg" width="100" align="middle" />](https://vocadb.net/Al/31072) | [211016] 我从人间走过 （言和） |
 | Evalia | |
-| [<img src="./thumb/蜜獄.jpg" width="100" align="middle" />](https://vocadb.net/Al/31320) | [211203] 蜜獄 （星尘;赤羽;海伊诗岸;;牧心） |
+| [<img src="./thumb/蜜獄.jpg" width="100" align="middle" />](https://vocadb.net/Al/31320) | [211203] 蜜獄 （星尘;赤羽;海伊;诗岸;牧心） |
+| lemon夹子 | |
+| [<img src="./thumb/Project LaTRia.jpg" width="100" align="middle" />](https://vocadb.net/Al/34384) | [221213] Project LaTRia （洛天依;星尘） |
+| 靘 & 电鱼 & 沉林川 | |
+| [<img src="./thumb/流星空间站.jpg" width="100" align="middle" />](https://vocadb.net/Al/34496) | [221231] 流星空间站 （星尘Infinity;星尘Minus;洛天依;海伊;诗岸） |
 | 歌姬only专辑 | |
 | 洛天依 | |
+| [<img src="./thumb/芳菲九陌.jpg" width="100" align="middle" />](https://vocadb.net/Al/14880) | [140825] 芳菲九陌 （洛天依） |
+| [<img src="./thumb/红-花开时代.jpg" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） |
 | [<img src="./thumb/∞.jpg" width="100" align="middle" />](https://vocadb.net/Al/25608) | [180706] ∞ （洛天依） |
 | [<img src="./thumb/唯Yi.jpg" width="100" align="middle" />](https://vocadb.net/Al/26723) | [190504] 唯Yi （洛天依） |
 | [<img src="./thumb/琉璃色前奏曲.jpg" width="100" align="middle" />](https://vocadb.net/Al/28489) | [200617] 琉璃色前奏曲 （洛天依） |
@@ -248,12 +262,8 @@
 | [<img src="./thumb/花洛兮.jpg" width="100" align="middle" />](https://vocadb.net/Al/7901) | [131020] 花洛兮 （洛天依） |
 | [<img src="./thumb/X-Loid.jpg" width="100" align="middle" />](https://vocadb.net/Al/8008) | [140304] X-Loid （初音ミク;洛天依） |
 | [<img src="./thumb/Vocaloeater.jpg" width="100" align="middle" />](https://vocadb.net/Al/12436) | [140518] Vocaloeater （洛天依;言和） |
-| [<img src="./thumb/芳菲九陌.jpg" width="100" align="middle" />](https://vocadb.net/Al/14880) | [140825] 芳菲九陌 （洛天依） |
 | [<img src="./thumb/月行書.jpg" width="100" align="middle" />](https://vocadb.net/Al/9706) | [140901] 月行书 （洛天依;言和） |
-| [<img src="./thumb/红-花开时代.jpg" width="100" align="middle" />](https://vocadb.net/Al/15135) | [150901] 红-花开时代 （洛天依） |
-| [<img src="./thumb/只是孩子.jpg" width="100" align="middle" />](https://vocadb.net/Al/18369) | [160618] 只是孩子 （洛天依;言和） |
 | [<img src="./thumb/·星·间物语.jpg" width="100" align="middle" />](https://vocadb.net/Al/20098) | [161202] ·星·间物语 （初音ミク;洛天依;kokone） |
-| [<img src="./thumb/天宫九问.jpg" width="100" align="middle" />](https://www.bilibili.com/video/BV13s411w79d) | [180731] 天宫九问 （洛天依;乐正绫） |
 | [<img src="./thumb/No.13852.jpg" width="100" align="middle" />](https://vocadb.net/Al/26885) | [180907] No.13852 （洛天依;言和;心华） |
 | [<img src="./thumb/星临.jpg" width="100" align="middle" />](https://vocadb.net/Al/27154) | [181001] 星临 （星砂;星尘;洛亦天;言和;乐正龙牙） |
 | [<img src="./thumb/秘密邮件.jpg" width="100" align="middle" />](https://vocadb.net/Al/25982) | [181117] 秘密邮件 （galaco;IA;MAYU;初音ミク;結月ゆかり;乐正绫;洛天依;心华;言和） |
